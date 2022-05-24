@@ -1,5 +1,15 @@
 # nuxt-sanity
 
+## Tutorial links
+
+[Nuxt docs](https://nuxtjs.org/docs/get-started/installation)
+
+[Blog tutorial](https://developers.cloudflare.com/pages/tutorials/build-a-blog-using-nuxt-and-sanity/)
+
+[Nuxt/Sanity docs](https://sanity.nuxtjs.org/getting-started/usage)
+
+[Chakra docs](https://vue.chakra-ui.com/with-nuxt)
+
 ## Build Setup
 
 ```bash
